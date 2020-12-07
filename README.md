@@ -1,5 +1,7 @@
 # project university
-
+Encryption and Steganography program
+   This program encrypts files using an algorithm RC6 And hide texts 
+   within the image using an algorithm LSB and algorithm Frame.
 
 ## Installation
 
